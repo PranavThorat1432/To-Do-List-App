@@ -59,15 +59,18 @@ Live Demo <!-- Add your deployed link here -->
 
 ### Main Interface
 
-![Main Interface](images/todo-screenshot.png)
+![main interface](https://github.com/user-attachments/assets/2f04d80b-6e37-43ab-b3fa-22840533789b)
+![main interface2](https://github.com/user-attachments/assets/c900260f-19fb-4359-9b52-d18da8f8d98d)
 
 ### Adding Tasks
 
-![Adding Tasks](images/add-task-screenshot.png)
+![Adding tasks](https://github.com/user-attachments/assets/481d5c22-2a3a-4c78-8bd3-00eb1c5c8efc)
+![Adding tasks2](https://github.com/user-attachments/assets/bb39b9f9-c602-44b5-884e-24718aacf0f3)
 
 ### Marking Tasks as Completed
 
-![Marking Tasks](images/mark-task-screenshot.png)
+![Marked Tasks](https://github.com/user-attachments/assets/091415bd-6e0f-4415-8dd1-ee727b90e4d9)
+
 
 ---
 
